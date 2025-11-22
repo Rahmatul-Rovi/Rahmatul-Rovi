@@ -13,13 +13,15 @@
   <a href="mailto:rahmatul.rovi@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="www.linkedin.com/in/rahmatul-munim-653288398" target="_blank">
+  <a href="https://www.linkedin.com/in/rahmatul-munim-653288398
+" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://codeforces.com/profile/Rahmatul_Rovi_386" target="_blank">
      <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" target="_blank" />
   </a>
-  <a href="rahmatul-rovi.github.io/Port-folio/" target="_blank">
+  <a href="https://rahmatul-rovi.github.io/Port-folio/
+" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
 </div>
