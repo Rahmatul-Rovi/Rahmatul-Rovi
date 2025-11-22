@@ -1,10 +1,10 @@
 <h2 align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=406DF7&width=435&lines=Hi+!+%2C+I'm+Anas+Ibn+Belal;Competitive+Programmer;MERN+Stack+Web+Developer" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=406DF7&width=435&lines=Hi+!+%2C+I'm+Rahmatul+Rovi;Competitive+Programmer;MERN+Stack+Web+Developer" alt="Typing SVG" /></a>
  <h2/>
 <br/>
 <h4 align="center">
-  - 🔭 <strong>Exploring:</strong> MERN Stack  
-  - 🌱 <strong>Learning:</strong> Competitive Programming  
+  - 🔭 <strong>Exploring:</strong> MERN Stack 
+  - 🌱 <strong>Learning:</strong> Competitive Programmer  
   - 🌐 <strong>Portfolio:</strong> <a href="rahmatul-rovi.github.io/Port-folio/" target="_blank">visit</a>  
 </h4>
 <br/>
