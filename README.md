@@ -5,7 +5,7 @@
 <h4 align="center">
   - 🔭 <strong>Exploring:</strong> MERN Stack 
   - 🌱 <strong>Learning:</strong> Competitive Programmer  
-  - 🌐 <strong>Portfolio:</strong> <a href="rahmatul-rovi.github.io/Port-folio/" target="_blank">visit</a>  
+  - 🌐 <strong>Portfolio:</strong> <a href="https://rahmatul-rovi.github.io/Port-folio/" target="_blank">visit</a>  
 </h4>
 <br/>
 
