@@ -1,16 +1,67 @@
-## Hi there 👋
+<h2 align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=406DF7&width=435&lines=Hi+!+%2C+I'm+Anas+Ibn+Belal;Competitive+Programmer;MERN+Stack+Web+Developer" alt="Typing SVG" /></a>
+ <h2/>
+<br/>
+<h4 align="center">
+  - 🔭 <strong>Exploring:</strong> MERN Stack  
+  - 🌱 <strong>Learning:</strong> Competitive Programming  
+  - 🌐 <strong>Portfolio:</strong> <a href="rahmatul-rovi.github.io/Port-folio/" target="_blank">visit</a>  
+</h4>
+<br/>
 
-<!--
-**Rahmatul-Rovi/Rahmatul-Rovi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center"> 
+  <a href="mailto:rahmatul.rovi@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="www.linkedin.com/in/rahmatul-munim-653288398" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://codeforces.com/profile/Rahmatul_Rovi_386" target="_blank">
+     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" target="_blank" />
+  </a>
+  <a href="rahmatul-rovi.github.io/Port-folio/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+  </a>
+</div>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr/>
+
+# ⚒️ Languages Frameworks ⚒️
+<br/>
+<div align="center">
+   <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,nodejs,express,mysql,prisma,c,cpp,java,spring,maven,npm" />
+   <img src="https://skillicons.dev/icons?i=vscode,git,github,redis,bash,postman,codepen,figma,photoshop,ai" />
+</div>
+
+<br/>
+
+# 📊 GitHub Stats
+<br/>
+
+<div align="center">
+  <img width="390" src="https://awesome-github-stats.azurewebsites.net/user-stats/Rahmatul-Rovi?cardType=github&theme=react&preferLogin=true" alt="GitHub Stats" />
+  <img width="440" src="https://github-readme-streak-stats.herokuapp.com/?Rahmatul-Rovi&count_private=true&theme=react&border_radius=10" alt="Streak Stats"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahmatul-Rovi&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
+</div>
+
+<br/>
+
+# 🏆 GitHub Trophies
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rahmatul-Rovi&theme=onestar&no-frame=true&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+<hr/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahmatul-Rovi&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
+
+<br/>
+<img src="https://holopin.me/anas20023"/>
