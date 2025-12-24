@@ -5,7 +5,7 @@
 <h4 align="center">
   - 🔭 <strong>Exploring:</strong> MERN Stack 
   - 🌱 <strong>Learning:</strong> Competitive Programmer  
-  - 🌐 <strong>Portfolio:</strong> <a href="https://rahmatul-rovi.github.io/Port-folio/" target="_blank">visit</a>  
+  - 🌐 <strong>Portfolio:</strong> <a href="https://my-personal-portfolio-86.netlify.app/" target="_blank">visit</a>  
 </h4>
 <br/>
 
@@ -20,7 +20,7 @@
   <a href="https://codeforces.com/profile/Rahmatul_Rovi_386" target="_blank">
      <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" target="_blank" />
   </a>
-  <a href="https://rahmatul-rovi.github.io/Port-folio/
+  <a href="https://my-personal-portfolio-86.netlify.app/
 " target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
