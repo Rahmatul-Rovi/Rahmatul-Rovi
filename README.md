@@ -20,7 +20,7 @@
   <a href="https://codeforces.com/profile/Rahmatul_Rovi_386" target="_blank">
      <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" target="_blank" />
   </a>
-  <a href="https://my-personal-portfolio-86.netlify.app/
+  <a href="https://rahmatul-rovi.netlify.app/
 " target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
