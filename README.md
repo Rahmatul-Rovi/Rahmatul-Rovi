@@ -30,7 +30,7 @@
 
 <hr/>
 
-# ⚒️ Languages Frameworks ⚒️
+ ⚒️ Languages Frameworks ⚒️
 <br/>
 <div align="center">
    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,nodejs,express,mysql,prisma,c,cpp,java,spring,maven,npm" />
@@ -39,7 +39,7 @@
 
 <br/>
 
-# 📊 GitHub Stats
+ 📊 GitHub Stats
 <br/>
 
 <div align="center">
@@ -59,11 +59,11 @@
 
 <br/>
 
-# 🏆 GitHub Trophies
+ 🏆 GitHub Trophies
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rahmatul-Rovi&theme=onestar&no-frame=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Rahmatul-Rovi&theme=onestar&no-frame=true&margin-w=4&column=7" alt="GitHub Trophies" />
 </div>
 
 <hr/>
